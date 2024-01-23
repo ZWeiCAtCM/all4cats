@@ -159,3 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 core/__pycache__/admin.cpython-310.pyc
+all4cats/__pycache__/settings.cpython-310.pyc
